@@ -54,7 +54,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ZTianle
-  - icon: researchgate
+- icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Tianle_Zhang6
 # Link to a PDF of your resume/CV from the About widget.
