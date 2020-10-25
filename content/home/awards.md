@@ -27,26 +27,19 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-06"
   description: ""
-  organization: Coursera
+  organization: CSU
   organization_url: 
-  title: Neural Networks and Deep Learning
+  title:  Outstanding Graduates in Central South University
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: 
-  title: Blockchain Fundamentals
-  url: ""
-- certificate_url: 
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2019-08"
   description: ""
-  organization: DataCamp
+  organization: CSU
   organization_url: 
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  title: National Scholarship for Graduate students
   url: ""
+
 ---
