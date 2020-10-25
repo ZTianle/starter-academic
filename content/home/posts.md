@@ -65,4 +65,6 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ No available posts yet!
 +++
