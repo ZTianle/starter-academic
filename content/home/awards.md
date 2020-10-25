@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Accomplish&shy;ments
+title: Awards
 subtitle:
 
 # Date format
@@ -25,28 +25,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
-- certificate_url:""
+- certificate_url:
   date_end: ""
   date_start: "2018-10-01"
   description: ""
   organization: Coursera
-  organization_url: ""
+  organization_url: 
   title: Neural Networks and Deep Learning
   url: ""
-- certificate_url: ""
+- certificate_url: 
   date_end: ""
   date_start: "2018-03-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
-  organization_url: ""
+  organization_url: 
   title: Blockchain Fundamentals
   url: ""
-- certificate_url: ""
+- certificate_url: 
   date_end: "2017-12-21"
   date_start: "2017-07-01"
   description: ""
   organization: DataCamp
-  organization_url: ""
+  organization_url: 
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 ---
