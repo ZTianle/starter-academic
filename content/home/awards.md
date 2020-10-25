@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2020-06"
+  date_start: "2020-06-01"
   description: ""
   organization: CSU
   organization_url: 
@@ -35,7 +35,7 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2019-08"
+  date_start: "2019-08-01"
   description: ""
   organization: CSU
   organization_url: 
