@@ -36,6 +36,6 @@ projects: []
 publishDate: '2020-10-26T06:23:32.615874Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'In this paper, we introduce a new method based on Bernstein Neural Network model (BeNN) and extreme learning machine algorithm to solve the differential equation. In the proposed method, we develop a single-layer functional link BeNN, the hidden layer is eliminated by expanding the input pattern by Bernstein polynomials. The network parameters are obtained by solving a system of linear equations using the extreme learning machine algorithm. Finally, the numerical experiment is carried out by MATLAB, results obtained are compared with the existing method, which proves the feasibility and superiority of the proposed method.'
 publication: '*Neural Processing Letters*'
 ---
