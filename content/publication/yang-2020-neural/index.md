@@ -36,6 +36,6 @@ projects: []
 publishDate: '2020-10-26T06:23:33.196076Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'To provide a new numerical algorithm for solving elliptic partial differential equations (PDEs), the Legendre neural network (LNN) and improved extreme learning machine (IELM) algorithm are introduced to propose a Legendre improved extreme learning machine (L-IELM) method, which is applied to solving elliptic PDEs in this paper. The product of two Legendre polynomials is chosen as basis functions of hidden neurons. Single hidden layer LNN is used to construct approximate solutions and its derivatives of differential equations. IELM algorithm is used for network weights training, and the algorithm steps of the proposed L-IELM method are summarized. Finally, in order to evaluate the present algorithm, various test examples are selected and solved by the proposed approach to validate the calculation accuracy. Comparative study with the earlier methods in literature is described to verify the superiority of the presented L-IELM method. Experiment results show that the proposed L-IELM algorithm can perform well in terms of accuracy and execution time, which in addition provides a new algorithm for solving elliptic PDEs.'
 publication: '*Soft Computing*'
 ---
