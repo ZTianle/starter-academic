@@ -38,7 +38,7 @@ projects: []
 publishDate: '2020-10-26T06:23:33.341124Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Forecasting international iron ore is a well-known issue, BIC criterion is used to select the relevant variables of iron ore price. On the basis of the traditional extreme learning machine (ELM), the regular term is introduced to control the complexity of the model, and the genetic algorithm (GA) is used to regularize the extreme learning machine. The input-layer weight matrix and the hidden-layer threshold matrix of the (RE-ELM) model are optimized to establish a BIC-based genetic algorithm and a regularization extreme learning machine (BIC-GA-RELM) iron ore price prediction model to increase the performance of the RE-ELM model. The results show that BIC-GA-RELM model has achieved the state of art performance, then a new method is provided for iron ore price prediction.'
 publication: '*2018 3rd International Conference on Modelling, Simulation and Applied
   Mathematics (MSAM 2018)*'
 ---
