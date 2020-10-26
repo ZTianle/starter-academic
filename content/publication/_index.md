@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "If I can be of assistance, please do not hesitate to contact me. "
   image: ""
 ---
