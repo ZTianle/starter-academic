@@ -36,6 +36,6 @@ projects: []
 publishDate: '2020-10-26T06:23:33.632248Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Classifying land-use scenes with high quality and accuracy is an important research direction in current hyperspectral remote sensing images, which is conducive to scientific management and utilization of land. An effective classifier and feature extractor can improve classification stability and accuracy. Therefore, based on deep learning technique, a dropout-based ensemble learning method is proposed in this paper, which combines convolutional neural network (CNN) and information discriminating extreme learning machine (IELM). Pre-trained CNN is used to learn effective and robust features, and deep convolution features are fed to the IELM classifier. Then the adoption of dropout technique and ensemble method can improve generalization capabilities and stability. The effectiveness of the proposed algorithm is tested by hyperspectral remote sensing image classification experiments. The experimental results show that the proposed E-CNN-dropIELM has achieved satisfactory results compared to state-of-the-art methods in terms of classification accuracy and stability.'
 publication: '*Computer Science and Information Systems*'
 ---
