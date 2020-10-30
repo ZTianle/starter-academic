@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Ph.D student supervised by <a href="http://wenjieruan.com/">Dr. Wenjie Ruan</a>  and <a href="http://emps.exeter.ac.uk/computer-science/staff/jefields">Prof. Jonathan Fieldsend</a> at <a href="https://lab.wuhanstudio.cn/"> Trust AI Lab</a>, University of Exeter. 
+I am currently a Ph.D student supervised by <a href="http://wenjieruan.com/">Dr. Wenjie Ruan</a>  and <a href="http://emps.exeter.ac.uk/computer-science/staff/jefields">Prof. Jonathan Fieldsend</a> at <a href="https://trustai.uk/"> Exeter Trustworthy AI Lab</a>, University of Exeter. 
 
 Previously, I received my Master degree, supervised by <a href="https://faculty.csu.edu.cn/houmuzhou/en/index.htm">Prof.Muzhou Hou</a> in Statistics from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China. During this period, I also did a three-month research work advised by <a href="https://sciences.ucf.edu/math/xli/">Prof.Xin Li</a> in the <a href="ucf.edu"> University of Central Florida</a>, America as a visiting scholar. Before that, I obtained my bachelor's degrees in Information and Computing Science from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China.
 
