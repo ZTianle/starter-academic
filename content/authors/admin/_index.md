@@ -81,3 +81,5 @@ I am currently a Ph.D student supervised by <a href="http://wenjieruan.com/">Dr.
 Previously, I received my Master degree, supervised by <a href="https://faculty.csu.edu.cn/houmuzhou/en/index.htm">Prof.Muzhou Hou</a> in Statistics from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China. During this period, I also did a three-month research work advised by <a href="https://sciences.ucf.edu/math/xli/">Prof.Xin Li</a> in the <a href="ucf.edu"> University of Central Florida</a>, America as a visiting scholar. Before that, I obtained my bachelor's degree in Information and Computing Science from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China.
 
 My current research interests are focused on: (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning, Statistical Learning and their applications.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_tianle.pdf" "newtab" >}}resumé{{< /staticref >}}.
