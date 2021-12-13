@@ -2,7 +2,7 @@
 title: ECM2419 ¨C Database Theory and Design
 linkTitle: Data Science
 ---
-title: ECM3412/ECM409 ¨C Nature-Inspired Computation
+<!-- title: ECM3412/ECM409 ¨C Nature-Inspired Computation
 linkTitle: Data Science
 ---
 title: COM2014 ¨C Computational Intelligence
@@ -10,7 +10,7 @@ linkTitle: Data Science
 ---
 title: ECM2427 ¨C Outside The Box: Computer Science Research And Applications
 linkTitle: Data Science
----
+--- -->
 
 <!-- ---
 title: ðŸ“Š Learn Data Science
