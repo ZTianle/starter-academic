@@ -20,7 +20,7 @@ date: '2021-01-24'
 type: book
 --- -->
 
-{{< figure src="featured.jpg" >}}
+<!-- {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
@@ -52,4 +52,4 @@ There are no prerequisites for the first course.
 Continuously, at your own pace.
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the course" cta_link="python" >}} -->
