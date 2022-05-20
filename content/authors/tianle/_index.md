@@ -18,7 +18,7 @@ organizations:
   url: "https://www.exeter.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: my current research interests lie in (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning and Statistical Learning.
+bio: My current research interests lie in (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning and Statistical Learning.
 
 interests:
 - Artificial Intelligence
