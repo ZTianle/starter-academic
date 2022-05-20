@@ -8,7 +8,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My current research interests lie in (i) Robustness and Safety on Deep
+bio: 1My current research interests lie in (i) Robustness and Safety on Deep
   Neural Networks; (ii) Machine Learning and Statistical Learning.
 interests:
   - Artificial Intelligence
