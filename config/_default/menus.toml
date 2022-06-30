@@ -30,7 +30,7 @@
 [[main]]
   name = "Teaching"
   url = "#courses"
-  weight = 50
+  weight = 90
   
 [[main]]
   name = "Contact"
