@@ -17,7 +17,7 @@ header:
   caption: ""
   image: ""
 ---
-- Reviewer, Thehe European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
+- Reviewer, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2022.
 - External Reviewer, 29th International Conference on Machine Learning (ICML), 2022
 - External Reviewer, IEEE Transactions on Reliability, 2022
 - External Reviewer, 35th Annual Conference on Neural Information Processing Systems (NeurIPS), 2021
