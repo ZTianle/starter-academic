@@ -28,9 +28,9 @@ header:
 - Subreviewer, The Conference on Information and Knowledge Management (CIKM), 2021
 - Invited Reviewer, SN Applied Sciences, 2021
 - Subreviewer, The 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021
-- External Reviewer, Conference on Computer Science and Application Engineering (CSAE), 2019, 2021
+- Invited Reviewer, Conference on Computer Science and Application Engineering (CSAE), 2019, 2021
 - Invited Reviewer, Scientific Reports, 2020
 - Invited Reviewer, Trends in Computer Science and Information Technology, 2020
 - Invited Reviewer, Chinese Journal of Computers, 2019
 - Invited Reviewer, American Journal of Physics and Applications, 2019
-- External Reviewer, The 3rd International Conference on Biological Information and Biomedical Engineering (BIBE), 2019
+- Invited Reviewer, The 3rd International Conference on Biological Information and Biomedical Engineering (BIBE), 2019
