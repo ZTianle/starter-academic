@@ -18,7 +18,7 @@ header:
   image: ""
 ---
 <b><font size=4 color=grey >2022</font></b>
-- (06/2022) "PRoA ( A Probabilistic Robustness Assessment against Functional Perturbations)" has been accepted as a full paper in [ECML-PKDD 2022](https://2022.ecmlpkdd.org/), with Wenjie Ruan and Jonathan E. Fieldsend, and our code can be found [here](https://github.com/TrustAI/PRoA).
+- (06/2022) "PRoA: A Probabilistic Robustness Assessment against Functional Perturbations" has been accepted as a full paper in [ECML-PKDD 2022](https://2022.ecmlpkdd.org/), with Wenjie Ruan and Jonathan E. Fieldsend, and our code can be found [here](https://github.com/TrustAI/PRoA).
 - (04/2022) Serve as a reviewer of [ECML-PKDD](https://2022.ecmlpkdd.org/)
 
 <b><font size=4 color=grey >2021</font></b>
