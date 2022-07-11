@@ -29,7 +29,7 @@ header:
 
 <b><font size=4 color=grey >2020</font></b>
 - (10/2020) Start my PhD at the university of Exeter, UK
-- (08/2020) Have been invited as a reviewer of [Trends in Computer Science and Information Technology]([https://www.nature.com/srep/](http://www.peertechz.com/journals/trends-in-computer-science-and-information-technology).
+- (08/2020) Have been invited as a reviewer of [Trends in Computer Science and Information Technology](http://www.peertechz.com/journals/trends-in-computer-science-and-information-technology).
 - (07/2020) Have been invited as a reviewer of [Scientific Reports](https://www.nature.com/srep/).
 - (06/2020) Graduated from Central South university, awarded the degree of Master of Science in Statistics.
 
