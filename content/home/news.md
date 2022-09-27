@@ -18,7 +18,7 @@ header:
   image: ""
 ---
 <b><font size=4 color=grey >2022</font></b>
-- (10/2022) Start Turing Enrichment Scheme as [enrichment student](https://www.turing.ac.uk/people/enrichment-students/tianle-zhang)
+- (10/2022) Start Turing Enrichment Scheme as [an enrichment student](https://www.turing.ac.uk/people/enrichment-students/tianle-zhang)
 - (09/2022) Have been invited as a reviewer of [AISTATS](http://aistats.org/aistats2023)
 - (06/2022) "PRoA: A Probabilistic Robustness Assessment against Functional Perturbations" has been accepted as a full paper in [ECML-PKDD 2022](https://2022.ecmlpkdd.org/), with Wenjie Ruan and Jonathan E. Fieldsend, and our code can be found [here](https://github.com/TrustAI/PRoA).
 - (05/2022) Offered a Community Award for the [PhD Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) from [The Alan Turing Institute](https://www.turing.ac.uk/).
