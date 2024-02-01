@@ -3,8 +3,8 @@ title: Tianle Zhang
 role: PhD Student in Computer Science
 avatar_filename: avatar.JPG
 organizations:
-  - name: University of Exeter
-    url: https://www.exeter.ac.uk/
+  - name: University of Liverpool
+    url: https://www.liverool.ac.uk/
 superuser: true
 authors:
   - tianle
