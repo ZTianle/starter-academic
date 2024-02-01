@@ -33,8 +33,11 @@ social:
 education:
   courses:
     - course: PhD in Computer Science
+      institution: University of Liverpool
+      year: 2023-Present
+    - course: PhD in Computer Science
       institution: University of Exeter
-      year: 2020-Present
+      year: 2020-2022
     - course: MSc in Statistics
       institution: Central South University
       year: 2017-2020
@@ -48,10 +51,10 @@ highlight_name: true
 email: zhangtianle95@gmail.com
 ---
 
-I am currently a Ph.D student supervised by <a href="http://wenjieruan.com/">Dr. Wenjie Ruan</a>  and <a href="http://emps.exeter.ac.uk/computer-science/staff/jefields">Prof. Jonathan Fieldsend</a> at <a href="https://trustai.uk/"> Exeter Trustworthy AI Lab</a>, University of Exeter. 
+I am currently a final-year Ph.D student supervised by <a href="http://wenjieruan.com/">Dr. Wenjie Ruan</a>  and <a href="http://emps.exeter.ac.uk/computer-science/staff/jefields">Prof. Jonathan Fieldsend</a> at <a href="https://trustai.uk/"> Trustworthy AI Lab</a>, University of Liverpool. Concurrently, I am a Research Associate at the <a href="https://cgi.csc.liv.ac.uk/~acps/home/">Trustworthy ACPS Lab</a> in University of Liverpool advised by <a href="https://cgi.csc.liv.ac.uk/~xiaowei/">Prof. Xiaowei Huang</a>.
 
 Previously, I received my Master degree, supervised by <a href="https://faculty.csu.edu.cn/houmuzhou/en/index.htm">Prof.Muzhou Hou</a> in Statistics from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China. During this period, I also did a three-month research work advised by <a href="https://sciences.ucf.edu/math/xli/">Prof.Xin Li</a> in the <a href="ucf.edu"> University of Central Florida</a>, America as a visiting scholar. Before that, I obtained my bachelor's degree in Information and Computing Science from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China.
 
-My current research interests are focused on: (i) Robustness and Safety on Deep Neural Networks; (ii) Machine Learning, Statistical Learning and their applications.
+My research interests are diverse and deeply rooted in the field of trust and reliable artificial intelligence, with a specific focus on: (i) Robustness and Safety on Deep Neural Networks; (ii) Trustworthiness on Large Language Models; (iii) Machine Learning, Statistical Learning and their applications.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_tianle.pdf" "newtab" >}}resumé{{< /staticref >}}.
