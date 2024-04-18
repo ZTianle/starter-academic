@@ -24,7 +24,8 @@ header:
 <b><font size=4 color=grey >2023</font></b>
 - (12/2023) Our paper "[DeepGRE: Global Robustness Evaluaion of Deep Neural Networks](https://ieeexplore.ieee.org/document/10446884)" has been accepted as a full paper in [ICASSP 2024](https://2024.ieeeicassp.org/).
 - (12/2023) Our paper "[Reward Certification for Policy Smoothed Reinforcement Learning](https://arxiv.org/abs/2312.06436)" has been accepted as a full paper in [AAAI 2024](https://aaai.org/aaai-conference/).
-- 
+- (11/2023) Start a Research Associate position at University of Liverpool under the supervision of Prof. [Xiaowei Huang](https://cgi.csc.liv.ac.uk/~xiaowei/).
+
 <b><font size=4 color=grey >2022</font></b>
 - (10/2022) Serve as an external reviewer of [ICLR 2023](https://iclr.cc/)
 - (10/2022) Start Turing Enrichment Scheme as [an enrichment student](https://www.turing.ac.uk/people/enrichment-students/tianle-zhang)
