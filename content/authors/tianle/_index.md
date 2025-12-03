@@ -1,10 +1,10 @@
 ---
 title: Tianle Zhang
-role: PhD Student in Computer Science
+role: Researcher in AI Safety and Governance
 avatar_filename: avatar.JPG
 organizations:
-  - name: University of Liverpool
-    url: https://www.liverool.ac.uk/
+  - name: EVOL Lab @ TeleAI of China Telecom
+    url: https://zhaoj9014.github.io/index.html
 superuser: true
 authors:
   - tianle
@@ -34,7 +34,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Liverpool
-      year: 2023-Present
+      year: 2023-2025
     - course: PhD in Computer Science
       institution: University of Exeter
       year: 2020-2022
@@ -50,8 +50,7 @@ user_groups:
 highlight_name: true
 email: zhangtianle95@gmail.com
 ---
-
-I am currently a final-year Ph.D student supervised by <a href="http://wenjieruan.com/">Dr. Wenjie Ruan</a>  and <a href="http://emps.exeter.ac.uk/computer-science/staff/jefields">Prof. Jonathan Fieldsend</a> at <a href="https://trustai.uk/"> Trustworthy AI Lab</a>, University of Liverpool. Concurrently, I am a Research Associate at the <a href="https://cgi.csc.liv.ac.uk/~acps/home/">Trustworthy ACPS Lab</a> in University of Liverpool advised by <a href="https://cgi.csc.liv.ac.uk/~xiaowei/">Prof. Xiaowei Huang</a>.
+I am an AI Safety and Governance Researcher at nstitute of Artificial Intelligence (TeleAI), China Telecom, China. Before that, I obtained my Ph.D degree from the University of Liverpool supervised by <a href="http://wenjieruan.com/">Dr. Wenjie Ruan</a>  and <a href="http://emps.exeter.ac.uk/computer-science/staff/jefields">Prof. Jonathan Fieldsend</a> at <a href="https://trustai.uk/"> Trustworthy AI Lab</a>, University of Liverpool. During my doctoral studies, I also served as a Research Associate at the <a href="https://cgi.csc.liv.ac.uk/~acps/home/">Trustworthy ACPS Lab</a> in University of Liverpool advised by <a href="https://cgi.csc.liv.ac.uk/~xiaowei/">Prof. Xiaowei Huang</a>.
 
 Previously, I received my Master degree, supervised by <a href="https://faculty.csu.edu.cn/houmuzhou/en/index.htm">Prof.Muzhou Hou</a> in Statistics from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China. During this period, I also did a three-month research work advised by <a href="https://sciences.ucf.edu/math/xli/">Prof.Xin Li</a> in the <a href="ucf.edu"> University of Central Florida</a>, America as a visiting scholar. Before that, I obtained my bachelor's degree in Information and Computing Science from the <a href="https://math.csu.edu.cn/"> School of Mathematics and Statistics</a>, <a href="http://en.csu.edu.cn/">Central South University</a>, China.
 
